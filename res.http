@@ -1,0 +1,11 @@
+
+POST http://127.0.0.1:8000/contact
+Content-Type: application/json
+
+{
+    "name":"sunku",
+    "email":"sunku9@gmail.com"
+}
+###
+
+GET http://127.0.0.1:8000
